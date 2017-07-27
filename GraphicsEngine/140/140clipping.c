@@ -1,6 +1,4 @@
-/*Author: Yanhan Lyu
-
-collaborator: Xingfan Xia*/
+/*Author: Yanhan Lyu*/
 
 /*calculate the t based on the start vector and end vector*/
 void calculateT(double start[renVARYDIMBOUND], double end[renVARYDIMBOUND], double result[renVARYDIMBOUND]){
